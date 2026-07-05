@@ -14,3 +14,7 @@ venv/
 # Secrets / local env
 .env
 *.token
+
+# Local figures (kept next to the notebook, not tracked)
+time-cost-budget.png
+*.png
